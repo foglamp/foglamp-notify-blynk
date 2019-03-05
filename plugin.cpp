@@ -34,15 +34,15 @@ using namespace rapidjson;
 				"\"description\": \"The Blynk REST API token\", " \
 				"\"type\": \"string\", " \
 				"\"default\": \"\", " \
-				"\"order\": \"1\", \"displayName\" : \"Blynk REST API token\"}, " \
+				"\"order\": \"1\", \"displayName\" : \"REST API token\"}, " \
 			"\"pin\": { " \
 				"\"description\": \"The Blynk Pin for device or Virtual Pin\", " \
 				"\"type\": \"string\", " \
 				"\"default\": \"\", " \
-				"\"displayName\" : \"Blynk Pin for device or Virtual Pin\", " \
+				"\"displayName\" : \"Device Pin/Vpin\", " \
 				"\"order\": \"2\" }, " \
 			"\"api_url\": { " \
-				"\"displayName\": \"Blynk REST API url prefix\", " \
+				"\"displayName\": \"REST API url prefix\", " \
 				"\"type\": \"string\", " \
 				"\"default\": \"http://blynk-cloud.com\", " \
 				"\"order\": \"3\", " \
