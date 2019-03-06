@@ -5,8 +5,10 @@ FogLAMP Blynk notification delivery plugin
 A simple Blynk notification delivery plugin.
 
 Blynk resources:
-- https://docs.blynk.cc/
-- https://blynkapi.docs.apiary.io/
+- Docs
+  https://docs.blynk.cc/
+- REST API
+  https://blynkapi.docs.apiary.io/
 - Get TOKEN
   https://docs.blynk.cc/#getting-started-getting-started-with-the-blynk-app-4-auth-token
 - Get pin or virtual pin
