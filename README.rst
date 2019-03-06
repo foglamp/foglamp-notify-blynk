@@ -4,10 +4,28 @@ FogLAMP Blynk notification delivery plugin
 
 A simple Blynk notification delivery plugin.
 
-TODO:
-add Blynk resources:
+Blynk resources:
+
+- Docs
+  https://docs.blynk.cc/
+- REST API
+  https://blynkapi.docs.apiary.io/
 - Get TOKEN
+  https://docs.blynk.cc/#getting-started-getting-started-with-the-blynk-app-4-auth-token
 - Get pin or virtual pin
+  https://docs.blynk.cc/#blynk-main-operations-virtual-pins
+- Local server
+  https://docs.blynk.cc/#security-use-local-blynk-server
+
+Installation
+------------
+
+ The plugin can be installed with given `requirements.sh <requirements.sh>`_ or the following steps:
+
+
+.. code-block:: bash
+
+  $ sudo apt install -y libcurl4-openssl-dev
 
 Build
 -----
