@@ -5,6 +5,7 @@ FogLAMP Blynk notification delivery plugin
 A simple Blynk notification delivery plugin.
 
 Blynk resources:
+
 - Docs
   https://docs.blynk.cc/
 - REST API
