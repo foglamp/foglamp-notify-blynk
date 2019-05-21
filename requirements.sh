@@ -28,7 +28,7 @@ os_version=`(grep -o '^VERSION_ID=.*' /etc/os-release | cut -f2 -d\" | sed 's/"/
 echo "Platform is ${os_name}, Version: ${os_version}"
 
 if [[ ( $os_name == *"Red Hat"* || $os_name == *"CentOS"* ) &&  $os_version == *"7"* ]]; then
-	sudo um -y install curl
+	sudo yum -y install curl
 	sudo yum -y install libcurl
 	sudo yum -y install curl-devel
 	sudo yum -y install libcurl-devel
