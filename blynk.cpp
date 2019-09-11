@@ -1,5 +1,5 @@
 /*
- * FogLAMP Blynk class
+ * Fledge Blynk class
  *
  * Copyright (c) 2019 Dianomic Systems
  *

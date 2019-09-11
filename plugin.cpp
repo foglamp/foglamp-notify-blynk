@@ -1,5 +1,5 @@
 /*
- * FogLAMP Blynk notification delivery plugin.
+ * Fledge Blynk notification delivery plugin.
  *
  * Copyright (c) 2019 Dianomic Systems
  *
